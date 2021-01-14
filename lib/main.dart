@@ -17,7 +17,7 @@
 //fit é para selecioarmos onde e como queremos a imagem, e  o BoxFit.cover é para cobrir todo o fundo  do cenário
 //Inserindo imagem. Se for do pc temos  que alterar lá na pasta pibspect.yaml, recomenda-se dar uma olhada para ver e colocar o diretório certinho da imagem aqui dentro do vs code, colocar pasta por pasta como por exemplo lib/images/restaurant.jpg e assim sucessivamente
 // Um widget Staless é um widget sem funcionalidade, sem interação e estático que aparecerá para o usuário, por exemplo a nossa tela de fundo... Agora para que a soma e a subtração aconteça e essa funcionalidade ao usuário mexer é outro tipo de widget que são chamado de widget Stateful, esses sim permitem a interação  ao mexer.
-//O setState irá atualizar a tela com os comandos que foram mudados dentro dele mesmo
+//O setState irá atualizar a tela com os comandos que foram mudados dentro dele mesmo nhaaa
 import 'package:flutter/material.dart';
 
 void main() {
